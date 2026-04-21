@@ -1,45 +1,79 @@
 # DSA
 
+> A curated collection of Data Structures and Algorithms solutions for interview preparation.
+>
+> Built from consistent practice, pattern recognition, and clean problem-solving.
+
 <div align="center">
 
-### A curated collection of Data Structures and Algorithms solutions for interview preparation
-
-![GitHub repo size](https://img.shields.io/github/repo-size/the-sparsh-shukla/DSA?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/the-sparsh-shukla/DSA?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/the-sparsh-shukla/DSA?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/the-sparsh-shukla/DSA?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice%20Repo-f89f1b?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-DSA%20%2B%20Interview%20Prep-0f172a?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Growing%20Collection-16a34a?style=for-the-badge)
 
 </div>
 
 ---
 
-## About
+## Overview
 
-This repository documents my Data Structures and Algorithms practice journey for coding interviews.
+This repository tracks my Data Structures and Algorithms journey for coding interviews.
+It is organized to make revision fast, problem patterns easy to revisit, and progress simple to measure.
 
-It focuses on:
-- Strong fundamentals
+### What this repo emphasizes
+
+- Consistent practice over time
 - Pattern-based problem solving
-- Clean implementation
+- Clean and readable implementations
 - Complexity analysis and optimization
+- Interview-focused revision
 
 ---
 
-## Goals
+## Progress Snapshot
 
-- Build consistency through regular practice
-- Track growth over time
-- Create a structured revision resource
-- Prepare effectively for technical interviews
+| Metric | Status |
+|---|---|
+| Problems Solved | Growing |
+| Topics Covered | Arrays, Strings, Hashing, Two Pointers, Stack, Queue, Linked List, Binary Search, Trees, Heaps, Graphs, Recursion, Backtracking, Dynamic Programming, Greedy |
+| Difficulty Mix | Easy, Medium, Hard |
+| Latest Focus | Strengthening core patterns |
+| Last Updated | April 2026 |
+
+---
+
+## Highlights
+
+<div align="center">
+
+| Problem Solving | Revision | Growth |
+|---|---|---|
+| Track solved questions topic-wise | Revisit patterns quickly | Build interview confidence |
+
+</div>
 
 ---
 
 ## Repository Structure
 
-Solutions are organized in topic/problem folders (LeetHub naming style), for example:
-- 0066-plus-one
+Solutions are organized by problem folder using LeetHub naming style.
 
-As the repository grows, it will include Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Greedy, and more.
+Example:
+
+- `0066-plus-one`
+
+As the repository grows, it will continue to include structured solutions across:
+
+- Arrays and Strings
+- Hashing and Two Pointers
+- Stack and Queue
+- Linked List
+- Binary Search
+- Trees and BST
+- Heaps and Priority Queue
+- Graphs
+- Recursion and Backtracking
+- Dynamic Programming
+- Greedy
 
 ---
 
@@ -59,29 +93,43 @@ As the repository grows, it will include Arrays, Strings, Linked Lists, Trees, G
 
 ---
 
-## Progress Tracker
+## Why This Repo Exists
 
-| Metric | Status |
-|---|---|
-| Total Solved | Ongoing |
-| Easy | Ongoing |
-| Medium | Ongoing |
-| Hard | Ongoing |
-| Last Updated | March 2026 |
+This repository is a personal interview-preparation log designed to help with:
+
+- Building consistency through regular practice
+- Tracking growth over time
+- Creating a structured revision resource
+- Preparing effectively for technical interviews
 
 ---
 
 ## Tech Stack
 
 - Platform: LeetCode
-- Sync: LeetHub v3
+- Sync Tool: LeetHub v3
 - Language: Based on submissions
+- Format: Problem-by-problem solution folders
+
+---
+
+## Suggested Tracking Fields
+
+If you want to make this repo even more useful, you can track:
+
+- Total solved questions
+- Easy / Medium / Hard split
+- Topic-wise counts
+- Current streak
+- Most recent revision date
+- Best topics
+- Weak topics
 
 ---
 
 ## Contribution
 
-This is a personal interview-prep repository. Suggestions and improvements are welcome through pull requests.
+This is a personal interview-prep repository, but suggestions and improvements are welcome through pull requests.
 
 ---
 
@@ -94,4 +142,4 @@ This is a personal interview-prep repository. Suggestions and improvements are w
 ## License
 
 Open for learning and reference.
-You can add an MIT License if you want formal open-source licensing.
+If you want formal open-source licensing, you can add an MIT License.
